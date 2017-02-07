@@ -1,2 +1,0 @@
-# MemoryGame
-Memory Game
